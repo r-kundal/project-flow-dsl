@@ -1,12 +1,11 @@
 # project-flow-dsl
-
-Initially, there was an idea to create a Domain-Specific Language (DSL) for routing operations in a project-specific flow based on git-flow can be a great way to simplify complex Git operations and provide a more streamlined process for developers.
+Creating a Domain-Specific Language (DSL) for routing operations in a project-specific flow based on git-flow can be a great way to simplify complex Git operations and provide a more streamlined process for developers.
 
 ## Intention
-Create a robust and user-friendly DSL for routing operations in a project-specific flow using Scala or F# that abstracts away the complexity of Git operations while leveraging the strengths of functional-first programming.
+Create a robust and user-friendly DSL for routing operations in a project-specific flow using F# that abstracts away the complexity of Git operations while leveraging the strengths of functional-first programming.
 
 ## Roadmap
-Here's a step-by-step guide on how to achieve this using functional-first programming languages like F#:
+Here's a step-by-step guide on how to achieve the aim using functional-first programming languages like F#:
 
 1. **Define the Requirements:**
    - Identify the common Git operations and workflows used in your project.
@@ -42,8 +41,7 @@ Here's a step-by-step guide on how to achieve this using functional-first progra
    - Gather feedback from developers who use the DSL.
    - Iterate on the design and implementation based on the feedback to improve the DSL.
 
-10. **Training and Adoption:**
+9. **Training and Adoption:**
     - Conduct training sessions to introduce the DSL to your development team.
     - Create guides and tutorials that demonstrate the benefits and usage of the DSL in your specific project context.
 
-By following these steps, you can create a robust and user-friendly DSL for routing operations in a project-specific flow using Scala or F# that abstracts away the complexity of Git operations while leveraging the strengths of functional-first programming.
